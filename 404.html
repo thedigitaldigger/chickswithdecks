@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Not in the deck · Chicks with Decks</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anybody:ital,wdth,wght@0,50..150,100..900;1,50..150,100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<style>
+  .lost { min-height: 100vh; min-height: 100svh; display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: end; gap: var(--gap); padding: var(--m); }
+  .lost h1 { font-size: var(--fs-xl); max-width: 11ch; }
+  .lost .lead { margin-top: 28px; }
+  .lost .lead a { color: var(--brand); text-underline-offset: 4px; }
+  .lost img { width: clamp(140px, 22vw, 320px); height: auto; aspect-ratio: 63 / 98; object-fit: cover; border-radius: 5.5% / 3.6%; transform: rotate(6deg); }
+  @media (max-width: 700px) { .lost { grid-template-columns: minmax(0, 1fr); align-content: end; } .lost img { order: -1; width: 44%; } }
+</style>
+</head>
+<body>
+<main class="lost">
+  <div>
+    <h1 class="display">That card isn’t in the deck</h1>
+    <p class="lead">The page you were looking for doesn’t exist. <a href="/">Start again from the top.</a></p>
+  </div>
+  <img src="/assets/cards/reverso.jpg" alt="The back of an 1878 Fournier playing card">
+</main>
+</body>
+</html>

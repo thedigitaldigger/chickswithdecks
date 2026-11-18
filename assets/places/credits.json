@@ -1,0 +1,48 @@
+[
+  {
+    "file": "assets/places/vallecas-calle.jpg",
+    "media": "image",
+    "ref": "commons:179837793",
+    "title": "Madrid - Calle de Los Santos Inocentes (Palomeras Bajas, Puente de Vallecas) 1",
+    "creator": "Zarateman",
+    "creatorUrl": null,
+    "date": "2025-12-13",
+    "license": "CC0",
+    "licenseCode": "cc0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "creditRequired": false,
+    "page": "https://commons.wikimedia.org/wiki/File:Madrid_-_Calle_de_Los_Santos_Inocentes_(Palomeras_Bajas,_Puente_de_Vallecas)_1.jpg",
+    "via": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Madrid_-_Calle_de_Los_Santos_Inocentes_%28Palomeras_Bajas%2C_Puente_de_Vallecas%29_1.jpg/1920px-Madrid_-_Calle_de_Los_Santos_Inocentes_%28Palomeras_Bajas%2C_Puente_de_Vallecas%29_1.jpg",
+    "width": 1920,
+    "height": 1440,
+    "bytes": 1355048,
+    "credit": "\"Madrid - Calle de Los Santos Inocentes (Palomeras Bajas, Puente de Vallecas) 1\" by Zarateman, CC0, via Wikimedia Commons",
+    "notes": [],
+    "saved": "2026-11-18T16:08:28.983Z"
+  },
+  {
+    "file": "assets/places/cuatro-torres.jpg",
+    "media": "image",
+    "ref": "commons:128642966",
+    "title": "Cuatro Torres, Madrid 20190210a",
+    "creator": "Luis Fernández García",
+    "creatorUrl": null,
+    "date": "2019-02-10",
+    "license": "CC BY-SA 4.0",
+    "licenseCode": "by-sa",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creditRequired": true,
+    "page": "https://commons.wikimedia.org/wiki/File:Cuatro_Torres,_Madrid_20190210a.jpg",
+    "via": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Cuatro_Torres%2C_Madrid_20190210a.jpg/1920px-Cuatro_Torres%2C_Madrid_20190210a.jpg",
+    "width": 1920,
+    "height": 1440,
+    "bytes": 406294,
+    "credit": "\"Cuatro Torres, Madrid 20190210a\" by Luis Fernández García, CC BY-SA 4.0, via Wikimedia Commons",
+    "notes": [
+      "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+    ],
+    "saved": "2026-11-18T16:08:30.597Z"
+  }
+]
